@@ -1,0 +1,17 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "호시노 Live 2D.moc3",
+    "Textures": ["호시노 Live 2D.2048/texture_00.png"],
+    "DisplayInfo": "호시노 Live 2D.cdi3.json",
+    "Motions": {
+      "Idle": [
+        { "File": "수면 호흡.motion3.json", "FadeInTime": 0.3, "FadeOutTime": 0.3 }
+      ]
+    }
+  },
+  "Groups": [
+    { "Target": "Parameter", "Name": "EyeBlink", "Ids": [] },
+    { "Target": "Parameter", "Name": "LipSync", "Ids": [] }
+  ]
+}
